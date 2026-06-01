@@ -1,6 +1,6 @@
 # Terminal-01-clock-console-timer
-Terminal-01 is a retro desk tabletop which will work as a clock, a pomodoro timer to help you through your work sessions and a gaming console for when you are bored! 
-it will have a raw and futuristric theme so will not use any casings.
+So, Terminal-01 is a retro tabletop which will be based on esp 32 working as a pomodoro timer to help you through your work sessions, a gaming console for when you are bored and a clock so you can see time ofc! 
+For a raw and futuristric theme, would recommend not using 3d printed casings and keeping the wiring exposed.
 
 <img width="911" height="1404" alt="ZIne page for terminal-01" src="https://github.com/user-attachments/assets/61fb6cf6-30b2-4f57-bd96-a14a86e18108" />
 
