@@ -25,7 +25,7 @@ For a raw and futuristric theme, would recommend not using 3d printed casings an
 change the wifi name and password in the code and you are good to go! 
 
 # Bill of materials-
-<img width="1900" height="432" alt="Final BOM terminal-01" src="https://github.com/user-attachments/assets/7ddc9c5d-3c6b-4529-8b2b-8ae11ff37fce" />
+<img width="1977" height="356" alt="Opera Snapshot_2026-06-09_135447_docs google com" src="https://github.com/user-attachments/assets/86f6d622-c707-4dbc-9cb9-ce7ae723c57c" />
 
 
 
